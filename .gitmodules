@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "graphclust"]
 	path = graphclust
 	url = https://github.com/cran/graphclust
-	shallow = true
-	registered = true
 [submodule "noisySBM"]
 	path = noisySBM
 	url = https://github.com/cran/noisySBM
-	shallow = true
-	registered = true
